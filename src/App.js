@@ -11,7 +11,10 @@ import {
 const students = [
   {id: '12', name: 'John Doe', score: 23},
   {id: '18', name: 'Jenny Jason', score: 27},
-  {id: '20', name: 'Tim Brown', score: 22}
+  {id: '20', name: 'Tim Brown', score: 22},
+  {id: '21', name: 'kikik moji', score: 22},
+  {id: '32', name: 'Ponanuta gumana', score: 12},
+  {id: '56', name: 'jim jj', score: 22},
 ]
 
 const Home = () => (<div>Home</div>)
